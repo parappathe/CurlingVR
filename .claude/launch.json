@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "curlingvr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8813"], "port": 8813 }
+  ]
+}
